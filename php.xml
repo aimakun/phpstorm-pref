@@ -2,7 +2,7 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration tool_path="/usr/local/bin/phpcs" />
-      <phpcs_by_interpreter interpreter_id="e67d4966-f75a-43c5-96a7-6b48cf95c956" tool_path="phpcs" />
+      <phpcs_by_interpreter interpreter_id="e67d4966-f75a-43c5-96a7-6b48cf95c956" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
@@ -332,5 +332,10 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="e67d4966-f75a-43c5-96a7-6b48cf95c956" custom_loader_path="/opt/phpcs_temp.tmp/vendor/autoload.php" phpunit_phar_path="" />
+    </phpunit_settings>
   </component>
 </application>
