@@ -2,13 +2,13 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration tool_path="$USER_HOME$/Code/fundzone/phpcs.sh" />
-      <phpcs_by_interpreter interpreter_id="e67d4966-f75a-43c5-96a7-6b48cf95c956" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="phpcs" />
+      <phpcs_by_interpreter interpreter_id="e67d4966-f75a-43c5-96a7-6b48cf95c956" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" timeout="30000" tool_path="phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="docker://c0848369cb44/php" id="e67d4966-f75a-43c5-96a7-6b48cf95c956" name="Remote PHP 5.5" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="c0848369cb44" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="docker://3c07939ce228/php" id="e67d4966-f75a-43c5-96a7-6b48cf95c956" name="Remote PHP 5.5" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="3c07939ce228" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
