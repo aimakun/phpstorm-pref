@@ -7,8 +7,8 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="docker://php:5.5/php" id="e67d4966-f75a-43c5-96a7-6b48cf95c956" name="Remote PHP 5.5" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="php:5.5" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="docker://aimakun/docker-laravel4-projects:dev-phpcs/php" id="e67d4966-f75a-43c5-96a7-6b48cf95c956" name="Remote PHP 5.5" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="aimakun/docker-laravel4-projects:dev-phpcs" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
