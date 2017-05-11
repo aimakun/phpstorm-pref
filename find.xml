@@ -20,6 +20,20 @@
       <mask>*.less</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>.js</mask>
+      <mask>I</mask>
+      <mask>In</mask>
+      <mask>Inv</mask>
+      <mask>Invo</mask>
+      <mask>Invoice</mask>
+      <mask>InvoiceI</mask>
+      <mask>InvoiceIm</mask>
+      <mask>InvoiceImp</mask>
+      <mask>InvoiceImpor</mask>
+      <mask>InvoiceImporter</mask>
+      <mask>InvoiceImporter.</mask>
+      <mask>InvoiceImporter.ph</mask>
+      <mask>InvoiceImporter.php</mask>
     </recentFileMasks>
   </component>
 </application>
