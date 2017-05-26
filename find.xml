@@ -3,16 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
       <mask>.js</mask>
       <mask>I</mask>
       <mask>In</mask>
@@ -29,11 +26,15 @@
       <mask>InvoiceImporter.php</mask>
       <mask>*.php</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
