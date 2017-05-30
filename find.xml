@@ -5,28 +5,13 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Importer.php" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>.js</mask>
-      <mask>I</mask>
-      <mask>In</mask>
-      <mask>Inv</mask>
-      <mask>Invo</mask>
-      <mask>Invoice</mask>
-      <mask>InvoiceI</mask>
-      <mask>InvoiceIm</mask>
-      <mask>InvoiceImp</mask>
-      <mask>InvoiceImpor</mask>
       <mask>InvoiceImporter</mask>
       <mask>InvoiceImporter.</mask>
       <mask>InvoiceImporter.ph</mask>
       <mask>InvoiceImporter.php</mask>
       <mask>*.php</mask>
-      <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jso</mask>
@@ -36,6 +21,22 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>imp</mask>
+      <mask>im</mask>
+      <mask>i</mask>
+      <mask>I</mask>
+      <mask>*</mask>
+      <mask>*I</mask>
+      <mask>*Imo</mask>
+      <mask>*Im</mask>
+      <mask>*Imp</mask>
+      <mask>*Impo</mask>
+      <mask>*Impor</mask>
+      <mask>*Import</mask>
+      <mask>*Importer</mask>
+      <mask>*Importer.</mask>
+      <mask>*Importer.ph</mask>
+      <mask>*Importer.php</mask>
     </recentFileMasks>
   </component>
 </application>
