@@ -5,25 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Importer.php" />
+    <option name="FILE_MASK" value="InvoiceResponse.php" />
     <recentFileMasks>
-      <mask>InvoiceImporter</mask>
-      <mask>InvoiceImporter.</mask>
-      <mask>InvoiceImporter.ph</mask>
-      <mask>InvoiceImporter.php</mask>
-      <mask>*.php</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.jso</mask>
-      <mask>*.json</mask>
-      <mask>*.</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>imp</mask>
-      <mask>im</mask>
-      <mask>i</mask>
       <mask>I</mask>
       <mask>*</mask>
       <mask>*I</mask>
@@ -37,6 +20,23 @@
       <mask>*Importer.</mask>
       <mask>*Importer.ph</mask>
       <mask>*Importer.php</mask>
+      <mask>*.php</mask>
+      <mask>i.php</mask>
+      <mask>.php</mask>
+      <mask>I.php</mask>
+      <mask>Inv.php</mask>
+      <mask>Invo.php</mask>
+      <mask>Invoice.php</mask>
+      <mask>InvoiceR.php</mask>
+      <mask>InvoiceRepos.php</mask>
+      <mask>InvoiceRepo.php</mask>
+      <mask>InvoiceRep.php</mask>
+      <mask>InvoiceRe.php</mask>
+      <mask>InvoiceRes.php</mask>
+      <mask>InvoiceResp.php</mask>
+      <mask>InvoiceRespo.php</mask>
+      <mask>InvoiceRespon.php</mask>
+      <mask>InvoiceResponse.php</mask>
     </recentFileMasks>
   </component>
 </application>
