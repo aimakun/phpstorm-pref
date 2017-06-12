@@ -5,18 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*htaccess*" />
     <recentFileMasks>
-      <mask>*Importer</mask>
-      <mask>*Importer.</mask>
-      <mask>*Importer.ph</mask>
-      <mask>*Importer.php</mask>
-      <mask>*.php</mask>
-      <mask>i.php</mask>
-      <mask>.php</mask>
-      <mask>I.php</mask>
-      <mask>Inv.php</mask>
-      <mask>Invo.php</mask>
-      <mask>Invoice.php</mask>
       <mask>InvoiceR.php</mask>
       <mask>InvoiceRepos.php</mask>
       <mask>InvoiceRepo.php</mask>
@@ -36,6 +26,17 @@
       <mask>*.</mask>
       <mask>*.confg</mask>
       <mask>*.conf</mask>
+      <mask>h</mask>
+      <mask>ht</mask>
+      <mask>hta</mask>
+      <mask>htac</mask>
+      <mask>htacc</mask>
+      <mask>htacce</mask>
+      <mask>htaccess*</mask>
+      <mask>htaccess**</mask>
+      <mask>htaccess</mask>
+      <mask>*htaccess</mask>
+      <mask>*htaccess*</mask>
     </recentFileMasks>
   </component>
 </application>
