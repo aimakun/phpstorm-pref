@@ -5,17 +5,14 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
-      <mask>InvoiceResp.php</mask>
-      <mask>InvoiceRespo.php</mask>
       <mask>InvoiceRespon.php</mask>
       <mask>InvoiceResponse.php</mask>
       <mask>y</mask>
       <mask>ym</mask>
       <mask>yml</mask>
       <mask>.yml</mask>
-      <mask>*.yml</mask>
-      <mask>*.ym</mask>
       <mask>*.</mask>
       <mask>*.confg</mask>
       <mask>*.conf</mask>
@@ -36,6 +33,10 @@
       <mask>*yaml*</mask>
       <mask>*ylogs_dirml*</mask>
       <mask>*yml*</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
