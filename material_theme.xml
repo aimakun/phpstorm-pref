@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isMaterialDesign" value="false" />
+    <option name="isBoldTabs" value="true" />
+    <option name="accentColor" value="795548" />
+    <option name="useProjectViewDecorators" value="false" />
+  </component>
+</application>
