@@ -5,14 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Dumper.php" />
     <recentFileMasks>
-      <mask>InvoiceRespon.php</mask>
-      <mask>InvoiceResponse.php</mask>
-      <mask>y</mask>
-      <mask>ym</mask>
-      <mask>yml</mask>
-      <mask>.yml</mask>
-      <mask>*.</mask>
       <mask>*.confg</mask>
       <mask>*.conf</mask>
       <mask>h</mask>
@@ -33,9 +27,16 @@
       <mask>*ylogs_dirml*</mask>
       <mask>*yml*</mask>
       <mask>.</mask>
-      <mask>*</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>*</mask>
+      <mask>*D</mask>
+      <mask>*Du</mask>
+      <mask>*Dum</mask>
+      <mask>*Dump</mask>
+      <mask>*Dumper</mask>
+      <mask>*Dumper.</mask>
+      <mask>*Dumper.php</mask>
     </recentFileMasks>
   </component>
 </application>
