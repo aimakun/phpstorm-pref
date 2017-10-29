@@ -1,39 +1,44 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>.js</mask>
-      <mask>I</mask>
-      <mask>In</mask>
-      <mask>Inv</mask>
-      <mask>Invo</mask>
-      <mask>Invoice</mask>
-      <mask>InvoiceI</mask>
-      <mask>InvoiceIm</mask>
-      <mask>InvoiceImp</mask>
-      <mask>InvoiceImpor</mask>
-      <mask>InvoiceImporter</mask>
-      <mask>InvoiceImporter.</mask>
-      <mask>InvoiceImporter.ph</mask>
-      <mask>InvoiceImporter.php</mask>
+      <mask>*.confg</mask>
+      <mask>*.conf</mask>
+      <mask>h</mask>
+      <mask>ht</mask>
+      <mask>hta</mask>
+      <mask>htac</mask>
+      <mask>htacc</mask>
+      <mask>htacce</mask>
+      <mask>htaccess*</mask>
+      <mask>htaccess**</mask>
+      <mask>htaccess</mask>
+      <mask>*htaccess</mask>
+      <mask>*htaccess*</mask>
+      <mask>*y*</mask>
+      <mask>*ya*</mask>
+      <mask>*yam*</mask>
+      <mask>*yaml*</mask>
+      <mask>*ylogs_dirml*</mask>
+      <mask>*yml*</mask>
+      <mask>.</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
+      <mask>*D</mask>
+      <mask>*Du</mask>
+      <mask>*Dum</mask>
+      <mask>*Dump</mask>
+      <mask>*Dumper</mask>
+      <mask>*Dumper.</mask>
+      <mask>*Dumper.php</mask>
       <mask>*</mask>
-      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
